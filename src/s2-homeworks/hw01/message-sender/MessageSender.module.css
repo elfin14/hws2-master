@@ -13,7 +13,7 @@
     border-radius: 20px;
     width: 975px;
     height: 100%;
-
+    resize: none;
     padding: 11px 24px;
 }
 
