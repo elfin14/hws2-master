@@ -12,7 +12,7 @@ type GreetingContainerPropsType = {
 export const pureAddUser = (name: string, setError: Function, setName: Function, addUserCallback: Function) => {
     let trimName = name.trim()
     if (!trimName) {
-       return  setError('Ошибка! Введите имя!')
+       return  setError('Ошибка! Введите имя!'),
                setName('')
     }
     {
