@@ -4,6 +4,8 @@
     padding: 5px 24px;
     font-weight: 600;
     font-size: 14px;
+    background-color: #0066CC;
+    color: #FFFFFF;
 }
 
 .disabled {
