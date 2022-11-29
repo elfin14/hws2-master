@@ -2,17 +2,17 @@
     border: 2px solid #9a9999;
 
 }
-
 .input {
     width: 370px;
     height: 36px;
     border-radius: 5px;
     border: 1px solid #D1D1D1;
     outline: none;
+    padding: 0 5px;
 }
 
 .inputWrapper {
-
+margin: 24px 0 16px ;
 }
 
 .superInput {
